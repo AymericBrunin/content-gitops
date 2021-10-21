@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: siranis/gitops:hellov1.1
+        image: siranis/gitops:hellov1.2
